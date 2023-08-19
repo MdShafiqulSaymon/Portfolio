@@ -43,7 +43,7 @@ function Footer() {
 						</li>
 						<li className="social-icons">
 							<a
-								href="www.linkedin.com/in/md-shafiqul-hasan-22a7201a1"
+								href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"
 								style={{ color: "white" }}
 								target="_blank"
 								rel="noopener noreferrer"
